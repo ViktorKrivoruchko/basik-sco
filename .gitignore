@@ -1,0 +1,5 @@
+*.pt
+.venv
+SCO_products.v2i.yolov11
+runs
+logs
